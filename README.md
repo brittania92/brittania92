@@ -2,7 +2,7 @@
 
 <h2>👩🏽‍💻 AWS Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Amazon CDK Project </b>
   - [MythicalMysfits using AWS CDK in Python](https://github.com/brittania92/mymysfits)
 
 
