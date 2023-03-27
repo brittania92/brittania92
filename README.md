@@ -5,7 +5,7 @@
 - <b>Amazon CDK Project </b>
   - [MythicalMysfits using AWS CDK in Python](https://github.com/brittania92/mymysfits)
 - <b>Amazon LightSail Project </b>
-  - [Static Website using AWS Route53 in LightSail ](https://bnorsworthypj.com)
+  - [Static Website using AWS Route53 in LightSail ](https://github.com/brittania92/mystaticwebsiteBN.git)
 
 <h2> Certifications</h2>
 
