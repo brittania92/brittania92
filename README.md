@@ -2,7 +2,7 @@
 
 <h2>👩🏽‍💻 AWS Projects:</h2>
 
-- <b>Amazon CDK Project </b>
+- <b>Modern 3 Tier Web App Project </b>
   - [MythicalMysfits using AWS CDK in Python](https://github.com/brittania92/mymysfits)
 - <b>Amazon LightSail Project </b>
   - [Static Website using AWS Route53 in LightSail ](https://github.com/brittania92/mystaticwebsiteBN.git)
