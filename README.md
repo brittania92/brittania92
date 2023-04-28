@@ -3,7 +3,7 @@
   
 - 👀 I’m interested in learning new computing skills, making people laugh, and being the best version of myself always.
   
-- 🌱 I’m currently learning various DevOps skills and automation.
+- 🌱 I’m currently learning various DevOps skills and strengthening my portfolio.
   
 - 💞️ I’m looking to collaborate on teams focused on solving complex problems and having fun.
   
