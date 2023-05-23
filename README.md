@@ -21,7 +21,7 @@
 <h2> Certifications</h2>
 
 - AWS Cloud Practitioner 
-- AWS Solutions Architect
+- AWS DevOps Associate
 
 
 <h2> 🤳 Connect with me:</h2>
