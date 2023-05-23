@@ -1,4 +1,4 @@
-<h1>Hi, I'm Britt!
+<h2>Hi, I'm Britt!
   
   
 - 👀 I’m interested in learning new computing skills, making people laugh, and being the best version of myself always.
