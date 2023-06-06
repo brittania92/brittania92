@@ -1,4 +1,4 @@
-<h2>Hi, I'm Britt!
+<h3>Hi, I'm Britt!
   
   
 - 👀 I’m interested in learning new computing skills, making people laugh, and being the best version of myself always.
@@ -9,7 +9,7 @@
   
 - 📫 How to reach me blnorsworthy@gmail.com
 
-<h2>👩🏽‍💻 AWS Projects:</h2>
+<h3>👩🏽‍💻 AWS Projects:</h3>
 
 - <b>Modern 3 Tier Web App Project </b>
   - [MythicalMysfits using AWS CDK in Python](https://github.com/brittania92/mymysfits)
@@ -17,14 +17,16 @@
   - [Static Website using AWS Route53 in LightSail ](https://github.com/brittania92/mystaticwebsiteBN.git)
 - <b> Amazon Rekognition Project</b>  
   - [Pet Rekognition using AWS ECS Clusters/ECR/Docker](https://github.com/brittania92/rekognition-skynet.git)
+- <b>Amazon Alexa Skill</b>
+  - [Creating A Personal Alexa Skill using the Alexa Dev Console](https://github.com/brittania92/myalexaskill.git)
 
-<h2> Certifications</h2>
+<h3> Certifications</h3>
 
 - AWS Cloud Practitioner 
 - AWS DevOps Associate
 
 
-<h2> 🤳 Connect with me:</h2>
+<h3> 🤳 Connect with me:</h3>
 
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
