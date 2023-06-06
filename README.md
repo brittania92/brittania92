@@ -11,7 +11,7 @@
 
 <h3>👩🏽‍💻 AWS Projects:</h3>
 
-- <b>Modern 3 Tier Web App Project </b>
+- <b>Modern 3 Tier Web App</b>
   - [MythicalMysfits using AWS CDK in Python](https://github.com/brittania92/mymysfits)
 - <b>Amazon LightSail Project </b>
   - [Static Website using AWS Route53 in LightSail ](https://github.com/brittania92/mystaticwebsiteBN.git)
@@ -19,6 +19,8 @@
   - [Pet Rekognition using AWS ECS Clusters/ECR/Docker](https://github.com/brittania92/rekognition-skynet.git)
 - <b>Amazon Alexa Skill</b>
   - [Creating A Personal Alexa Skill using the Alexa Dev Console](https://github.com/brittania92/myalexaskill.git)
+- <b>CRUD API</b>
+  - [Building A Simple CRUD API using DynamoDB/HTTP API/Lambda](https://github.com/brittania92/CRUDapi)
 
 <h3> Certifications</h3>
 
